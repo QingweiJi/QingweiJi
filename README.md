@@ -10,4 +10,4 @@ Previously, I received my M.Sc. degree from University of Electronic Science and
   
 - 😄 Personal Academic Website & Blog: https://qingweiji.github.io/
 
-I’m actively maintaining a personal blog in madarin Chinese, which is about summaries of papers/codes I read. 
+I’m actively maintaining a personal blog in madarin Chinese, which is about summaries of papers/codes I read. Anyone is welcomed to leave comments and discuss with me!
